@@ -1,0 +1,69 @@
+2017 Peace Proposal Synopsis
+by Daisaku Ikeda, President, Soka Gakkai International
+
+
+The synopsis of SGI President Daisaku Ikeda’s 2017 peace proposal, “The Global Solidarity of Youth: Ushering In a New Era of Hope.”
+Sixty years have passed since my mentor, second Soka Gakkai president Josei Toda (1900–58), issued his declaration calling for the prohibition and abolition of nuclear weapons.
+At the core of his thinking was a vision of global citizenship rooted in the philosophy of respect for life’s inherent dignity as taught in Buddhism.
+This is the conviction that no one should be subjected to discrimination, be exploited or have their interests sacrificed for the benefit of others. This resonates strongly with the United Nations’ appeal to the international community to create a world in which “no one will be left behind.”
+Our world today is confronted by numerous grave challenges including a seemingly unending succession of armed conflicts and the sufferings of the rapidly growing refugee population. I am not, however, pessimistic about humanity’s future. My reason is the faith I place in our world’s young people, each of whom embodies hope and the possibility of a better future.
+I would like to offer thoughts on how to build the kind of peaceful, just and inclusive societies envisioned in the Sustainable Development Goals (SDGs) that were launched last year, putting special focus on the role of youth.
+Creating solidarity centered on young people toward the goal of coexistence
+
+With the signing of the Paris Agreement on climate change in 2016, the countries of the world came together to confront a common threat in a way that had previously appeared impossible. This was the result of a shared awareness that climate change is an urgent issue for all countries.
+If we are to make progress toward the achievement of the SDGs, we will need to share a similar awareness and solidarity across all fields.
+The key to dealing with even the most seemingly intractable challenges is to be found when people come together and continue to do all in their power for the sake of others.
+In the Mahayana Buddhist tradition, the term bodhisattva is used to describe a person dedicated to the realization of happiness for oneself and others. This spirit of the bodhisattva is the foundation that has sustained the SGI’s efforts as a faith-based organization that supports the UN and works for the resolution of global challenges. Our consistent focus has been on promoting empowerment of, by and for the people.
+The inner capacities of people unleashed by empowerment serve as an enduring source of energy for transformation, a wellspring of inextinguishable hope.
+Education gives rise to the actions and activities that shape the direction of society over time. Education for global citizenship, in particular, can foster action and solidarity, enabling young people to bring forth their full potential and increasing momentum for global change.
+Laying the foundations for societies in which division and inequality are overcome
+
+With the continuing stagnation of the global economy, xenophobic impulses have strengthened. Xenophobic thinking is propelled by a stark division of the world into good and evil. It leaves no room for hesitation or scruple. In the same way, when the pursuit of market-based economic rationality has no counterbalancing consideration of the human element, a psychology is unleashed that is ready to extract even the most extreme sacrifices from others.
+What kind of social anchoring is available to resist the forces of xenophobia that deepen the divisions within society and the pursuit of economic rationality that is indifferent to the sacrifices of the vulnerable? I believe the answer is to be found in strong connections between people. It is my confident expectation that friendship among youth will powerfully turn back the sullied currents of divisiveness and give birth to a vibrant culture of peace based on profound respect for diversity.
+Enhancing the capacity of communities to meet and respond positively to challenges
+
+The ability to solve problems is not something reserved for special people: It is a path that opens before any of us when we face reality head-on, taking up some aspect of its weighty burden and acting with persistence. The energy of young people, in particular, can catalyze chain reactions of positive change as they forge bonds of trust among people.
+Three Priority Areas:
+
+I would like to offer concrete proposals regarding three priority areas crucial to the realization of the peaceful, just and inclusive societies that are the aim of the SDGs:
+Prohibiting and abolishing nuclear weapons
+
+The threat posed by nuclear weapons is, if anything, growing. In this regard, I would like to make the following proposals.
+i) The earliest possible holding of a US-Russia summit in order to reinvigorate the nuclear disarmament process. I urge the leaders of these two countries to engage in dialogue toward taking their weapons off high alert and to make significant new progress in nuclear arms reduction.
+ii) Japan should work to achieve the broadest possible participation in the upcoming negotiations on a legally binding instrument to prohibit nuclear weapons, including that of states that possess or rely on nuclear weapons.
+In recent years, the cities of Hiroshima and Nagasaki have contributed to keeping the nuclear weapons issue in the public eye by hosting a series of diplomatic meetings and welcoming the visits of foreign dignitaries. As the only country to have experienced a nuclear attack, Japan should encourage the states that participated in these discussions and as many others as possible to take part in the upcoming multilateral nuclear disarmament negotiations.
+The work of establishing a treaty prohibiting the production, transfer, threat of use or use of these weapons should be viewed as a global enterprise with the goal of preventing the horrors of nuclear war from ever being experienced by any country.
+The first Preparatory Committee for the 2020 NPT Review Conference is scheduled to meet in Vienna in May. There should be an effort to mutually acknowledge the security concerns of all states to help make the negotiations truly constructive.
+iii) The full spectrum of civil society actors should generate statements directed toward the upcoming negotiations. Together, these would constitute a people’s declaration for a world without nuclear weapons.
+Now is the time for civil society to build momentum to establish the treaty as a form of people-driven international law.
+Restoring hope in the hearts of refugees
+
+The second priority area that I would like to focus on is the need to implement relief programs designed to enable refugees to live with hope.
+I would like to propose that the United Nations take the initiative in developing a new aid architecture that would be a partnership for resolving humanitarian challenges and protecting human dignity. This would enable forcibly displaced persons to work in fields that contribute to enhancing resilience and promoting the achievement of the SDGs in host communities.
+One form of this could bring together humanitarian and development initiatives, with the UN and member states actively cooperating to provide vocational training and skill acquisition programs related to the SDGs to refugees and asylum-seekers.
+Building a culture of human rights
+
+Next year is the seventieth anniversary of the Universal Declaration of Human Rights. I would like to propose that the occasion be marked by the holding of a UN and civil society forum on human rights education that would review achievements to date and deepen deliberations toward the adoption of a convention on human rights education and training.
+If the world’s young people can come to uphold and protect the core values of human rights, I am positive that a path toward a pluralist and inclusive society can be brought into being. Human rights education can be the main driving force for achieving this. In collaboration with other NGOs, the SGI hopes to move global public opinion toward the adoption of a legally binding convention on human rights education and training.
+Gender equality is also deeply relevant to constructing a culture of human rights. The goal of gender equality is to open the path for all people, irrespective of gender, to bring forth the light of their inner dignity and humanity in a way that is true to their own unique self.
+The SGI, with youth at the center of our movement, will further strive to expand the solidarity of people united in the cause of building a culture of human rights, working toward creating a society where no one is left behind.
+
+
+
+
+var granimInstance = new Granim({
+    element: '#canvas-basic',
+    name: 'basic-gradient',
+    direction: 'left-right',
+    opacity: [1, 1],
+    isPausedWhenNotInView: true,
+    states : {
+        "default-state": {
+            gradients: [
+                ['#AA076B', '#61045F'],
+                ['#02AAB0', '#00CDAC'],
+                ['#DA22FF', '#9733EE']
+            ]
+        }
+    }
+});
