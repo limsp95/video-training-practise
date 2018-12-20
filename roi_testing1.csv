@@ -1,4 +1,4 @@
-name,frequency,lat,lon, roi
+name,pop,lat,lon, roi
 New York ,387238,40.7305991,-73.9865812,5
 Los Angeles ,157238,34.053717,-118.2427266,5.2
 Chicago ,167238,41.8755546,-87.6244212,2.5
